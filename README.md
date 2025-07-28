@@ -15,7 +15,7 @@ Performs various bitwise operations on these numbers:
 ^ (XOR) to find bits set in one number but not both.
 ~ (NOT) to invert all bits.
 << (left shift) to shift bits to the left, effectively multiplying by 2.
->> (right shift) to shift bits to the right, effectively dividing by 2.
+ >> (right shift) to shift bits to the right, effectively dividing by 2.
 Displays the results of these operations.
 
 Program 2: Bit Setting and Resetting
